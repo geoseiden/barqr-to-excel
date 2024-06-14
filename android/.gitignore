@@ -1,0 +1,78 @@
+# Flutter
+build/
+ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+*.tmp
+*.lock
+*.log
+.idea/
+.project
+.settings/
+*.iml
+*.ipr
+.vscode/
+*.apk
+*.aab
+*.jks
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/*.xcodeproj/project.xcworkspace/xcuserdata/
+ios/Flutter/*.xcodeproj/xcuserdata/
+ios/Flutter/*.xcworkspace/xcuserdata/
+ios/Flutter/*.xcworkspace/xcshareddata/
+ios/Flutter/Flutter.xcworkspace/xcuserdata/
+ios/Flutter/Flutter.xcworkspace/xcshareddata/
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/proguard-rules.pro
+android/app/google-services.json
+android/key.properties
+
+# Dart/Pub
+**/doc/api/
+.pub/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+/packages
+.pub-cache/
+.pub-cache/hosted/
+.pub-cache/git/
+.pub-cache/bin/
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Other
+.DS_Store
+*.swp
+
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
+key.properties
+**/*.keystore
+**/*.jks

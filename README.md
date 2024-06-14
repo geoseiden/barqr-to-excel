@@ -3,9 +3,9 @@
 A Flutter application that scans barcodes and QR codes, stores the scanned data, and exports it to an Excel file.
 
 <p float="left">
-  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true" width="100" />
-  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot2.png?raw=true" width="100" /> 
-  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true" width="100" />
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true" />
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot2.png?raw=true"  /> 
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true"  />
 </p>
 
 ## Features

@@ -1,16 +1,30 @@
-# barscan
+# Barcode/QR Code to Excel
 
-A new Flutter project.
+A Flutter application that scans barcodes and QR codes, stores the scanned data, and exports it to an Excel file.
 
-## Getting Started
+<p float="left">
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true" width="100" />
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot2.png?raw=true" width="100" /> 
+  <img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/screenshot1.png?raw=true" width="100" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Scan barcodes and QR codes
+- Store scanned data
+- Export data to an Excel file
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Download apk from github releases
+[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">](https://github.com/geoseiden/barqr-to-excel/releases)
+
+2.Install Apk and use
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the LICENSE file.
+
+## Commercial Use
+
+Commercial use of this project is not allowed without prior permission. If you would like to use this project commercially, please contact contact@thegeorge.in to discuss the terms.

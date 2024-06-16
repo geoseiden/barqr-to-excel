@@ -17,7 +17,7 @@ A Flutter application that scans barcodes and QR codes, stores the scanned data,
 ## Installation
 
 1.Download apk from github releases
-[<img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/git.png?raw=true" width="40">](https://github.com/geoseiden/barqr-to-excel/releases/download/1.0/app-release.apk)
+[<img src="https://github.com/geoseiden/barqr-to-excel/blob/main/assets/git.png?raw=true" width="100">](https://github.com/geoseiden/barqr-to-excel/releases/download/1.0/app-release.apk)
 
 2.Install Apk and use
 
